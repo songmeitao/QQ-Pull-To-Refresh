@@ -10,4 +10,5 @@ If you find a mistake, please contact me, thank you very much.    Email：song_m
 
 ##Effect display：
 
-<img src="https://github.com/songmeitao/MyData/QQPulltorefresh.gif" width = "400" height = "600" alt="图片名称" align=center />
+
+![](https://github.com/songmeitao/yData/QQPulltorefresh.gif)  
