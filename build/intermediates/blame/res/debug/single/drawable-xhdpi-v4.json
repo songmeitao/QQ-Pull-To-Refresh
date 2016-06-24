@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading.png",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\loading.png"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\load_succeed.png",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\load_succeed.png"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pullup_icon_big.png",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\pullup_icon_big.png"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\refresh_failed.png",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\refresh_failed.png"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\refresh_succeed.png",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\refresh_succeed.png"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pull_icon_big.png",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\pull_icon_big.png"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\j.jpg",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\j.jpg"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\i.jpg",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\i.jpg"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\h.jpg",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\h.jpg"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\m.jpg",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\m.jpg"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\refreshing.png",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\refreshing.png"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\load_failed.png",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\load_failed.png"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\k.jpg",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\k.jpg"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\l.jpg",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\drawable-xhdpi\\l.jpg"
+    }
+]

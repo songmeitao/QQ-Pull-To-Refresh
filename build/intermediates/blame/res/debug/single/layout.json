@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\layout\\load_more.xml",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imageview.xml",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\layout\\activity_imageview.xml"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\layout\\activity_expandablelistview.xml",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\layout\\activity_expandablelistview.xml"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview.xml",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\layout\\activity_textview.xml",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\layout\\activity_textview.xml"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gridview.xml",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\layout\\activity_gridview.xml"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scrollview.xml",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\layout\\activity_scrollview.xml"
+    },
+    {
+        "merged": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout.xml",
+        "source": "F:\\songmeitao\\newAS\\workspace\\Demo\\QQPullToRefresh\\src\\main\\res\\layout\\list_item_layout.xml"
+    }
+]
