@@ -11,4 +11,4 @@ If you find a mistake, please contact me, thank you very much.    Email：song_m
 ##Effect display：
 
 
-![](https://github.com/songmeitao/MyData/QQPulltorefresh.gif)  
+![](https://github.com/songmeitao/MyData/blob/master/QQPulltorefresh.gif) 
